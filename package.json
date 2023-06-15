@@ -119,7 +119,7 @@
     "tsd": "^0.25.0"
   },
   "dependencies": {
-    "@stem/nesthydrationjs": "0.4.0",
+    "nesthydrationjs": "2.0.0",
     "debug": "^4.1.0",
     "deprecate": "^1.0.0",
     "generatorics": "^1.0.8",
